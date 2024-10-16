@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "source_id": 1,
+      "title": "Artificial Intelligence in 2024",
+      "content": "AI continues to evolve with new advancements in machine learning and deep learning...",
+      "published_at": "2024-04-10T10:00:00Z",
+      "sentiment": "Positive",
+      "topics": ["AI", "Machine Learning", "Deep Learning"]
+    },
+    {
+      "id": 2,
+      "source_id": 2,
+      "title": "Understanding React Hooks",
+      "content": "React Hooks have revolutionized the way we write React components by allowing us to use state and other features without writing a class...",
+      "published_at": "2024-05-15T12:30:00Z",
+      "sentiment": "Neutral",
+      "topics": ["React", "Hooks", "JavaScript"]
+    },
+    {
+      "id": 3,
+      "source_id": 3,
+      "title": "Breaking News on AI",
+      "content": "Latest updates on AI development in the tech industry...",
+      "published_at": "2024-06-20T08:45:00Z",
+      "sentiment": "Negative",
+      "topics": ["AI", "Tech News"]
+    }
+  ]
+  

@@ -1,0 +1,17 @@
+/* src/components/MediaSources.css */
+.media-sources {
+    padding: 20px;
+  }
+  
+  .media-sources ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .media-sources ul li {
+    background-color: #f9f9f9;
+    margin-bottom: 10px;
+    padding: 15px;
+    border-radius: 5px;
+  }
+  

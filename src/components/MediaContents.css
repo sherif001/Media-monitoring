@@ -1,0 +1,21 @@
+/* src/components/MediaContents.css */
+.media-contents {
+    padding: 20px;
+  }
+  
+  .media-contents ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .media-contents ul li {
+    background-color: #f1f1f1;
+    margin-bottom: 15px;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .media-contents ul li h3 {
+    margin-top: 0;
+  }
+  

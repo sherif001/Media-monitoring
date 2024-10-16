@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "name": "BBC News",
+      "source_type": "Website"
+    },
+    {
+      "id": 2,
+      "name": "Tech Blog",
+      "source_type": "Blog"
+    },
+    {
+      "id": 3,
+      "name": "Twitter",
+      "source_type": "Social Media"
+    }
+  ]
+  
